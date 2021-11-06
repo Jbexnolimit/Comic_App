@@ -1,0 +1,28 @@
+{
+  "name": "comicreaderapp",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "firebase": "^9.2.0",
+    "socket.io": "^4.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  },
+  "bugs": {
+    "url": "https://github.com/username/repository/issues"
+  },
+  "homepage": "https://github.com/username/repository#readme"
+}
